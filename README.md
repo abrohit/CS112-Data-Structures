@@ -1,6 +1,6 @@
 # CS112 Data Structures
 
-Course Grade: TBD
+Course Grade: A
 
 Professor Ana Paula Centeno
 
